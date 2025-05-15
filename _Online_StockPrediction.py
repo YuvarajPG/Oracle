@@ -1,6 +1,6 @@
 
 # Stock Price Prediction using AI (Time Series Analysis)
-# Author: Poornachandran M
+# Author: Yuvaraj P.G
 # Tools: Python, Yahoo Finance, Linear Regression
 
 # Step 1: Install yfinance if not available
